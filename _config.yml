@@ -6,7 +6,7 @@ author: "kdsun75"
 email: "kdsun75@gmail.com"
 
 # GitHub Pages 테마 (선택사항)
-theme: minima
+theme: minimal
 
 # 플러그인
 plugins:
@@ -24,6 +24,18 @@ paginate_path: "/page:num/"
 
 # 시간대
 timezone: Asia/Seoul
+
+# 사이드바 네비게이션
+navigation:
+  - title: 홈
+    url: /
+  - title: About
+    url: /about/
+
+# 소셜 링크 (선택사항)
+social:
+  github: kdsun75
+  email: kdsun75@gmail.com
 
 # 기본값
 defaults:
