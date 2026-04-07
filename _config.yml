@@ -1,0 +1,35 @@
+title: "My Blog"
+description: "kdsun75의 블로그"
+baseurl: "" # 서브디렉토리 사용 시 /myblog 형식으로
+url: "https://kdsun75.github.io"
+author: "kdsun75"
+email: "kdsun75@gmail.com"
+
+# GitHub Pages 테마 (선택사항)
+theme: minima
+
+# 플러그인
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# 마크다운 설정
+markdown: kramdown
+highlighter: rouge
+
+# 페이징
+paginate: 5
+paginate_path: "/page:num/"
+
+# 시간대
+timezone: Asia/Seoul
+
+# 기본값
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "kdsun75"
