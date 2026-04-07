@@ -5,8 +5,8 @@ url: "https://kdsun75.github.io"
 author: "kdsun75"
 email: "kdsun75@gmail.com"
 
-# GitHub Pages 테마 (선택사항)
-theme: cayman
+# GitHub Pages 테마 (공식 지원 테마: pages-themes/cayman, pages-themes/architect 등)
+remote_theme: pages-themes/cayman@v0.2.0
 
 # 플러그인
 plugins:
