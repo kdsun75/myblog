@@ -2,7 +2,7 @@
 layout: post
 title: "인포그래픽 생성하는 젬스 만들기"
 date: 2026-04-08
-permalink: /myblog/infographic-gems/   # ← 영어로 간단하게!
+permalink: /infographic-gems/   # ← 영어로 간단하게!
 # 또는
 # permalink: /2026/04/08/infographic-gems/
 ---
