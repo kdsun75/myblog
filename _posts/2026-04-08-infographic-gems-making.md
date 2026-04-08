@@ -1,3 +1,12 @@
+---
+layout: post
+title: "인포그래픽 생성하는 젬스 만들기"
+date: 2026-04-08
+permalink: /infographic-gems/   # ← 영어로 간단하게!
+# 또는
+# permalink: /2026/04/08/infographic-gems/
+---
+
 인포그래픽 이미지 생성
 1. 일반적인방법 gemini prompt창에 아래 내용을 입력해본다.
    : 구글 제미니 사용 방법에 대한 인포그래픽을 만들어달라
