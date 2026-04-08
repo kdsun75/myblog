@@ -5,15 +5,17 @@ title: "홈"
 
 # Google Gems 👋
 
-Image Prompt 만들기( inpographic )
-: 잘되있는 Inpographic 사진을 첨부하고 사진과 비슷한 이미지 프롬프트를 만들어 달라고 요청함
+인포그래픽 이미지 생성
+1. 일반적인방법 gemini prompt창에 아래 내용을 입력해본다.
+   : 구글 제미니 사용 방법에 대한 인포그래픽을 만들어달라
+prompt:
+  Create an infographic for me about how to use Google Gemini.  [사고모드 전환] [이미지 만들기]
 
-1. 이미지 첨부
-2. prompt
-   : Create for me a prompt I can use to recreate this style. I'm not talking about the details of the image, just the style like the colors,
-     the layout, the font, and the overall feel. I want a text response, that has the prompt. Do not create an image.
-3. think mod( 사고모드 )
+=> 결과는 normal한 인포그래픽 이미지를 생성해준다.
 
-## 최신 게시물
+2. google gems 활용  => 지침 분석해보기
+   gems: On-Brand infographics
+   : 위에서와 같이 똑같은 프롬프트를 입력하고 생성해준 인포그래픽 이미지 비교해본다
+     ※ 퀄리티 좋은 이미지 생성됨
 
-아래에서 최신 글들을 확인하세요.
+
