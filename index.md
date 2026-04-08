@@ -3,7 +3,7 @@ layout: home
 title: "홈"
 ---
 
-# GOOGLE Gems 👋
+# Google Gems 👋
 
 Image Prompt 만들기( inpographic )
 : 잘되있는 Inpographic 사진을 첨부하고 사진과 비슷한 이미지 프롬프트를 만들어 달라고 요청함
