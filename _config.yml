@@ -1,6 +1,6 @@
 title: "My Blog"
 description: "kdsun75의 블로그"
-baseurl: "" # 서브디렉토리 사용 시 /myblog 형식으로
+baseurl: "/myblog" # 서브디렉토리 사용 시 /myblog 형식으로
 url: "https://kdsun75.github.io"
 author: "kdsun75"
 email: "kdsun75@gmail.com"

@@ -5,8 +5,4 @@ title: "홈"
 
 # Google Gems 👋
 
- [Google Gems](/infographic-gems/)
-
-
-
-
+[Google Gems]({{ site.baseurl }}/infographic-gems/)
