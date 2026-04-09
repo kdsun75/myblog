@@ -7,15 +7,41 @@ permalink: /infographic-gems/   # ← 영어로 간단하게!
 # permalink: /2026/04/08/infographic-gems/
 ---
 
-인포그래픽 이미지 생성
-1. 일반적인방법 gemini prompt창에 아래 내용을 입력해본다.
-   : 구글 제미니 사용 방법에 대한 인포그래픽을 만들어달라
-prompt:
-  Create an infographic for me about how to use Google Gemini.  [사고모드 전환] [이미지 만들기]
+# 인포그래픽 이미지 생성 비교
 
-=> 결과는 normal한 인포그래픽 이미지를 생성해준다.
+Google Gemini를 활용해 **인포그래픽**을 만드는 두 가지 방법을 비교해보았습니다.
 
-2. google gems 활용  => 지침 분석해보기
-   gems: On-Brand infographics
-   : 위에서와 같이 똑같은 프롬프트를 입력하고 생성해준 인포그래픽 이미지 비교해본다
-     ※ 퀄리티 좋은 이미지 생성됨
+### 1. 일반적인 방법 (기본 프롬프트 사용)
+
+**프롬프트 입력:**
+> 구글 제미니 사용 방법에 대한 인포그래픽을 만들어달라  
+> **Prompt:** Create an infographic for me about how to use Google Gemini.
+
+**결과 특징:**
+- 일반적인 스타일의 인포그래픽 생성
+- 무난하고 기본적인 디자인
+- [사고모드 전환] + [이미지 만들기] 사용
+
+### 2. Google Gems 활용 (On-Brand Infographics)
+
+**Gems 지침:**  
+`On-Brand Infographics`
+
+**같은 프롬프트**를 Gems에 입력하여 생성
+
+**결과 특징:**
+- 훨씬 더 세련되고 전문적인 퀄리티
+- 브랜드 느낌이 살아있는 디자인
+- 색감, 레이아웃, 타이포그래피가 크게 향상됨
+
+**비교 포인트**
+- 동일한 프롬프트를 사용했음에도 **Gems**가 월등히 높은 퀄리티의 인포그래픽을 생성합니다.
+- 특히 **On-Brand Infographics** Gems를 사용하면 일관성 있고 고급스러운 결과물을 얻을 수 있습니다.
+
+---
+
+**결론**  
+Google Gemini의 기본 기능도 인포그래픽을 만들어주지만,  
+**Gems**를 적절히 활용하면 훨씬 더 프로페셔널하고 예쁜 결과물을 얻을 수 있습니다.
+
+특히 **"On-Brand Infographics"** Gems는 강력 추천합니다!
