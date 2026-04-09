@@ -45,3 +45,21 @@ Google Gemini의 기본 기능도 인포그래픽을 만들어주지만,
 **Gems**를 적절히 활용하면 훨씬 더 프로페셔널하고 예쁜 결과물을 얻을 수 있습니다.
 
 특히 **"On-Brand Infographics"** Gems는 강력 추천합니다!
+
+---
+
+<div style="margin-top: 80px; padding: 40px 0; text-align: center; border-top: 1px solid #eeeeee;">
+  <a href="/myblog/" 
+     style="display: inline-block; 
+            padding: 14px 32px; 
+            background-color: #f8f9fa; 
+            color: #0066cc; 
+            text-decoration: none; 
+            border-radius: 50px; 
+            border: 1px solid #ddd; 
+            font-size: 1.08em; 
+            font-weight: 500; 
+            transition: all 0.2s ease;">
+    ← 이전으로 돌아가기
+  </a>
+</div>
