@@ -3,6 +3,6 @@ layout: home
 title: "홈"
 ---
 
-# Google Gems 👋
+# KD's blog 👋
 
 [hermes-agents]({{ "/hermes-agents/" | relative_url }})
