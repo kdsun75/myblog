@@ -9,7 +9,7 @@ Hermes Agent: 스스로 진화하는 차세대 자율 AI 에이전트
 
 최근 AI 기술의 발전은 단순한 챗봇을 넘어, 스스로 학습하고 진화하는 **자율 에이전트(Autonomous Agent)**의 시대로 접어들고 있습니다. 그 중심에 서 있는 혁신적인 오픈소스 프로젝트, Hermes Agent에 대해 알아보겠습니다. Nous Research에서 개발한 이 에이전트는 기존 AI 비서들이 가진 한계를 극복하고, 사용자와 함께 성장하는 진정한 의미의 디지털 협업자를 지향합니다 [1].
 
-![Hermes Agent Hero Image](assets/images/hermes-agent-hero.png)
+![Hermes Agent Hero Image]({{ '/assets/images/hermes-agent-hero.png' | relative_url }})
 
 기존 AI 비서의 한계: '기억 상실증' 문제
 
