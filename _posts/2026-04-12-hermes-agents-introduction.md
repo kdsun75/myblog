@@ -32,3 +32,19 @@ References
 [2] Yuval Avidani. "Hermes Agent: Self-Improving AI with Persistent Memory." YUV.AI Blog, Mar 12, 2026. https://yuv.ai/blog/hermes-agent
 
 [3] GitHub. "NousResearch/hermes-agent." GitHub Repository, 2026. https://github.com/NousResearch/hermes-agent
+
+<div style="margin-top: 80px; padding: 40px 0; text-align: center; border-top: 1px solid #eeeeee;">
+  <a href="/myblog/" 
+     style="display: inline-block; 
+            padding: 14px 32px; 
+            background-color: #f8f9fa; 
+            color: #0066cc; 
+            text-decoration: none; 
+            border-radius: 50px; 
+            border: 1px solid #ddd; 
+            font-size: 1.08em; 
+            font-weight: 500; 
+            transition: all 0.2s ease;">
+    ← 이전으로 돌아가기
+  </a>
+</div>
