@@ -4,7 +4,6 @@ title: "Hermes Agent: 스스로 진화하는 차세대 자율 AI 에이전트"
 date: 2026-04-12
 permalink: /hermes-agents/
 
-# 본문 내용을 YAML 안에서 안전하게 처리하기 위해 content 키로 감쌉니다.
 content: |
   Hermes Agent: 스스로 진화하는 차세대 자율 AI 에이전트
 
@@ -41,23 +40,25 @@ content: |
 
   ![Hermes Agent Architecture](/assets/images/hermes-agent-architecture.png)
 
-  | 컴포넌트              | 설명 |
-  |-----------------------|------|
-  | 인터페이스 (Interfaces) | Telegram, Discord, Slack, CLI 등 다양한 플랫폼을 지원하여 사용자가 선호하는 환경에서 매끄럽게 소통할 수 있습니다. |
+  | 컴포넌트                    | 설명 |
+  |----------------------------|------|
+  | 인터페이스 (Interfaces)     | Telegram, Discord, Slack, CLI 등 다양한 플랫폼을 지원하여 사용자가 선호하는 환경에서 매끄럽게 소통할 수 있습니다. |
   | 기억 시스템 (Memory System) | 세션 스토리지와 검색 가능한 데이터베이스를 통해 단기 및 장기 기억을 관리합니다. |
   | 스킬 라이브러리 (Skill Library) | 에이전트가 기본적으로 탑재한 기능과 스스로 생성한(Auto-Generated) 커스텀 함수들이 저장되는 공간입니다. |
-  | LLM 백엔드 (LLM Backend) | 모델 불가지론(Model-Agnostic)을 채택하여 특정 제공업체에 종속되지 않습니다. 로컬 모델부터 최신 클라우드 API까지 자유롭게 연결할 수 있습니다. |
-  | 샌드박스 (Sandboxes) | Docker, SSH, Local 등 5가지 백엔드를 지원하여 안전하게 코드를 실행하고 웹을 제어합니다. |
+  | LLM 백엔드 (LLM Backend)   | 모델 불가지론(Model-Agnostic)을 채택하여 특정 제공업체에 종속되지 않습니다. 로컬 모델부터 최신 클라우드 API까지 자유롭게 연결할 수 있습니다. |
+  | 샌드박스 (Sandboxes)       | Docker, SSH, Local 등 5가지 백엔드를 지원하여 안전하게 코드를 실행하고 웹을 제어합니다. |
 
   결론: 왜 Hermes Agent인가?
 
   단순한 일회성 질문이나 간단한 코드 작성이라면 기존의 AI 챗봇으로도 충분할 수 있습니다. 하지만 수주, 수개월에 걸쳐 진행되는 복잡한 프로젝트나, 자신만의 작업 방식을 완벽하게 이해하는 장기적인 AI 파트너가 필요하다면 Hermes Agent는 현재 가장 훌륭한 오픈소스 대안입니다.
 
   "시작할 때는 도구였지만, 시간이 지날수록 동료가 됩니다." 이것이 바로 Hermes Agent가 제시하는 AI의 새로운 패러다임입니다.
-
 ---
 
 References
+
 [1] Nous Research. "Hermes Agent — An Agent That Grows With You." Hermes Agent Official Site, 2026. https://hermes-agent.nousresearch.com/
+
 [2] Yuval Avidani. "Hermes Agent: Self-Improving AI with Persistent Memory." YUV.AI Blog, Mar 12, 2026. https://yuv.ai/blog/hermes-agent
-[3] GitHub. "NousResearch/hermes-agent." GitHub Repository, 2026. https://github.com/nousresearch/hermes-agent
+
+[3] GitHub. "NousResearch/hermes-agent." GitHub Repository, 2026. https://github.com/NousResearch/hermes-agent
