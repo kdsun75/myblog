@@ -5,4 +5,4 @@ title: "홈"
 
 # Google Gems 👋
 
-[Google Gems]({{ "/hermes-agents/" | relative_url }})
+[hermes-agents]({{ "/hermes-agents/" | relative_url }})
